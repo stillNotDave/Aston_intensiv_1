@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitCheck</string>
+
+    <string name="step_1">git init</string>
+    <!--добавляем 1 строку в MainActivity-->
+    <string name="step_2">git status</string>
+    <string name="step_3">git add .</string>
+    <string name="step_4">git commit -m "java file changes"</string>
+    <string name="step_5">git remote add origin https://github.com/stillNotDave/Aston_intensiv_1.git</string>
+    <string name="step_6">git push -u origin master</string>
+
+    <!-- ======================================================= -->
+
+    <string name="step_7">git checkout -b newBranch</string>
+    <string name="step_8">git add .</string>
+    <string name="step_9">git commit -m "some change"</string>
+    <string name="step_10">git push origin newBranch</string>
+</resources>
