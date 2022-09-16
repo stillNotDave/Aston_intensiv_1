@@ -15,4 +15,6 @@
     <string name="step_8">git add .</string>
     <string name="step_9">git commit -m "some change"</string>
     <string name="step_10">git push origin newBranch</string>
+
+    <string name="idk">123</string>
 </resources>
